@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Praxis 1",
+    "therapists": [
+      {
+        "name": "Müller"
+      },
+      {
+        "name": "Schmidt"
+      },
+      {
+        "name": "Schneider"
+      }
+    ]
+  },
+  {
+    "name": "Praxis 2",
+    "therapists": [
+      {
+        "name": "Fischer"
+      },
+      {
+        "name": "Weber"
+      },
+      {
+        "name": "Meyer"
+      }
+    ]
+  },
+  {
+    "name": "Praxis 3",
+    "therapists": [
+      {
+        "name": "Wagner"
+      },
+      {
+        "name": "Becker"
+      },
+      {
+        "name": "Schulz"
+      }
+    ]
+  },
+  {
+    "name": "Praxis 4",
+    "therapists": [
+      {
+        "name": "Hoffmann"
+      },
+      {
+        "name": "Schäfer"
+      },
+      {
+        "name": "Bauer"
+      }
+    ]
+  },
+  {
+    "name": "Praxis 5",
+    "therapists": [
+      {
+        "name": "Koch"
+      },
+      {
+        "name": "Richter"
+      },
+      {
+        "name": "Klein"
+      }
+    ]
+  },
+  {
+    "name": "Praxis 6",
+    "therapists": [
+      {
+        "name": "Wolf"
+      },
+      {
+        "name": "Schröder"
+      },
+      {
+        "name": "Neumann"
+      }
+    ]
+  },
+  {
+    "name": "Praxis 7",
+    "therapists": [
+      {
+        "name": "Schwarz"
+      },
+      {
+        "name": "Braun"
+      },
+      {
+        "name": "Zimmerman"
+      }
+    ]
+  },
+  {
+    "name": "Praxis 8",
+    "therapists": [
+      {
+        "name": "Krüger"
+      },
+      {
+        "name": "Werner"
+      },
+      {
+        "name": "Lange"
+      }
+    ]
+  }
+]
