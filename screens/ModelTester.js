@@ -20,7 +20,6 @@ export default class ModelTester extends React.Component {
                 <Modal isVisible={this.state.visible} onBackdropPress={this.closeModel}>
                     <View style={styles.box}>
                         <Text>Termininformationen</Text>
-                        <br/>
                         <Text>Datum: 12.05.2022</Text>
                         <Text>Start: 09:15</Text>
                         <Text>Ende: 09:50</Text>
@@ -28,8 +27,6 @@ export default class ModelTester extends React.Component {
                         <Text>Praxis: Praxis</Text>
                         <Text>Patient: Bernd Bosch</Text>
                         <Text>Behandlungsart: Wurzelbehandlung</Text>
-                        <br/>
-                        <br/>
                         <Button title="Hide modal" onPress={this.closeModel}/>
                     </View>
                 </Modal>
